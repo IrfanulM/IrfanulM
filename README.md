@@ -1,9 +1,9 @@
 # Hey there, I'm Irfan! 👋
 
-I'm a **21-year-old aspiring full-stack developer**, **machine learning enthusiast**, and **software engineer** from Melbourne, Australia.  
-Currently, I'm studying **Computer Science at RMIT**.
+I'm a 21-year-old aspiring full-stack developer, machine learning enthusiast, and software engineer from Melbourne, Australia.  
+Currently, I'm studying Computer Science at RMIT.
 
-I’m passionate about using technology to **help people** and **make their lives easier**, and here you can follow my journey to achieving that goal.
+I’m passionate about using technology to help people and make their lives easier, and here you can follow my journey to achieving that goal.
 
 ---
 
