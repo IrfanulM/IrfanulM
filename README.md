@@ -4,8 +4,6 @@ I'm a 21-year-old aspiring full-stack developer, machine learning enthusiast, an
 
 Currently, I'm studying Computer Science at RMIT. I’m passionate about using technology to help people and make their lives easier, and here you can follow my journey to achieving that goal.
 
----
-
 ### 🌟 My Tech Stack
 
 | Category                 | Skills                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -16,7 +14,6 @@ Currently, I'm studying Computer Science at RMIT. I’m passionate about using t
 | **🧪 Testing** | <img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/> <img src="https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>                                                                                                                                                                                                                                     |
 | **🛠️ Tools & Platforms** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>                                                                                                                                                                                                        |
 
----
 
 ### 💬 Let's Connect :)
 
