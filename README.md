@@ -18,7 +18,7 @@ Currently, I'm studying Computer Science at RMIT. I’m passionate about using t
 
 ---
 
-## 💬 Let's Connect :)
+### 💬 Let's Connect :)
 
 - ✉️ **Email:** [irfanulm@hotmail.com](mailto:irfanulm@hotmail.com)
 - 🔗 **LinkedIn:** [irfanul-majumder](https://www.linkedin.com/in/irfanul-majumder)
